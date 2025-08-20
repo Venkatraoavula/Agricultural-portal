@@ -11,6 +11,16 @@ Problem Statement
 • Crop selection 
 • Difficulty in selling the crop at the right time to the customers. 
 ❑ Our project aims at minimizing these problems and looks forward to easing the activities of the farmers![image](https://github.com/user-attachments/assets/95cf9d56-1c2a-4517-a386-659081a5d2d0)
+<img width="1918" height="1035" alt="Screenshot 2024-10-20 072828" src="https://github.com/user-attachments/assets/9be99a44-3097-4c66-9861-6f871460fe6c" />
+<img width="1903" height="988" alt="Screenshot 2024-10-20 072901" src="https://github.com/user-attachments/assets/f798ee82-c05c-4c11-8bdd-afe441d9c8e6" />
+<img width="1905" height="974" alt="Screenshot 2024-10-20 072927" src="https://github.com/user-attachments/assets/e3b88695-4ed0-4407-b4e9-f12c2ea85884" />
+<img width="1878" height="684" alt="Screenshot 2024-10-20 073331" src="https://github.com/user-attachments/assets/bcbb65fd-de4c-44eb-8fd5-7b138abe0ffe" />
+<img width="1705" height="819" alt="Screenshot 2024-10-20 073536" src="https://github.com/user-attachments/assets/4c0cef13-1add-4b1a-92c7-04ff2fb0ed9a" />
+<img width="1588" height="724" alt="Screenshot 2024-10-20 073749" src="https://github.com/user-attachments/<img width="1411" height="646" alt="Screenshot 2024-10-20 073844" src="https://github.com/user-attachments/assets/799cfb4b-4f6a-4480-91f7-d050d0d40315" />
+assets/8c7e6a38-2d09-434d-99fe-f30db5ba955c" />
+<img width="1892" height="709" alt="Screenshot 2024-10-20 073955" src="https://github.com/user-attachments/assets/b01ca536-9d36-4766-84d2-421cbc43de63" />
+<img width="1879" height="669" alt="Screenshot 2024-10-20 074602" src="https://github.com/user-attachments/assets/3d4ffb99-b669-4f01-8ea6-014963c0e6f4" />
+<img width="1885" height="562" alt="Screenshot 2024-10-20 074233" src="https://github.com/user-attachments/assets/2f624711-f4c9-46ab-8b63-08c8eaabed57" />
 
 #Objective
 • The objective of our project is to build an application which helps the farmers to carry out better farming.
